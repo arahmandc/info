@@ -12,3 +12,8 @@ QGIS
 ArcGIS
 ##
 
+##
+Others
+##
+https://github.com/bdmappers/Data-Science--Cheat-Sheet
+
